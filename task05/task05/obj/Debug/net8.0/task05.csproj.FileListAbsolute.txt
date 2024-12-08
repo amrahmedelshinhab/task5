@@ -1,0 +1,14 @@
+C:\Users\HP 650 G3\source\repos\task05\task05\bin\Debug\net8.0\task05.exe
+C:\Users\HP 650 G3\source\repos\task05\task05\bin\Debug\net8.0\task05.deps.json
+C:\Users\HP 650 G3\source\repos\task05\task05\bin\Debug\net8.0\task05.runtimeconfig.json
+C:\Users\HP 650 G3\source\repos\task05\task05\bin\Debug\net8.0\task05.dll
+C:\Users\HP 650 G3\source\repos\task05\task05\bin\Debug\net8.0\task05.pdb
+C:\Users\HP 650 G3\source\repos\task05\task05\obj\Debug\net8.0\task05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 650 G3\source\repos\task05\task05\obj\Debug\net8.0\task05.AssemblyInfoInputs.cache
+C:\Users\HP 650 G3\source\repos\task05\task05\obj\Debug\net8.0\task05.AssemblyInfo.cs
+C:\Users\HP 650 G3\source\repos\task05\task05\obj\Debug\net8.0\task05.csproj.CoreCompileInputs.cache
+C:\Users\HP 650 G3\source\repos\task05\task05\obj\Debug\net8.0\task05.dll
+C:\Users\HP 650 G3\source\repos\task05\task05\obj\Debug\net8.0\refint\task05.dll
+C:\Users\HP 650 G3\source\repos\task05\task05\obj\Debug\net8.0\task05.pdb
+C:\Users\HP 650 G3\source\repos\task05\task05\obj\Debug\net8.0\task05.genruntimeconfig.cache
+C:\Users\HP 650 G3\source\repos\task05\task05\obj\Debug\net8.0\ref\task05.dll
